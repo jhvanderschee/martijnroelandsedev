@@ -1,0 +1,4 @@
+*, ::after, ::before { margin: 0; padding: 0; box-sizing: border-box;}
+
+header h1 a {color: black; text-decoration: none;}
+header h1 img {position: absolute; display: block; left: 50%; transform: translateX(-50);}
